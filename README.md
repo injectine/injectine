@@ -24,6 +24,8 @@
       </p>
     </td>
 </table>
+</div>
+<div align="left">
   <!-- start from here -->　　 <!-- end to here -->
-  <img width="100" src="https://github.com/user-attachments/assets/54a06ee4-02ba-4828-888a-1fa1c27c7c07" title="Personnel Badge (trinket)" align="left" />
+  <img width="100" src="https://github.com/user-attachments/assets/54a06ee4-02ba-4828-888a-1fa1c27c7c07" title="Personnel Badge (trinket)" />
 </div>
