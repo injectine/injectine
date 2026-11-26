@@ -3,7 +3,7 @@
 </p>
 <p align="left">
   <br> ${\color{#F15D61}{\textsf{Futures}}}$ ${\color{#F7B45C}{\textsf{made}}}$ ${\color{#FFFF9E}{\textsf{of}}}$ ${\color{#8FFC7C}{\textsf{virtual}}}$ ${\color{#637efc}{\textsf{insanity,}}}$ ${\color{#9756f6}{\textsf{now}}}$
-  <br> ${\color{#F15D61}{\textsf{Always}}}$ ${\color{#F7B45C}{\textsf{seem}}}$ ${\color{#FFFF9E}{\textsf{to}}}$ ${\color{#8FFC7C}{\textsf{be}}}$ governed by this love we  ${\color{#9756f6}{\textsf{have}}}$
+  <br> ${\color{#F15D61}{\textsf{Always}}}$ ${\color{#F7B45C}{\textsf{seem}}}$ ${\color{#FFFF9E}{\textsf{to}}}$ ${\color{#8FFC7C}{\textsf{be}}}$ governed by ${\color{#637efc}{\textsf{this}}}$ ${\color{#637efc}{\textsf{love}}}$ ${\color{#9756f6}{\textsf{we}}}$  ${\color{#9756f6}{\textsf{have}}}$
 </p>
 <br>
 <div align="center">
