@@ -2,7 +2,7 @@
   <img width="254" src="https://github.com/user-attachments/assets/b62217f1-99e0-4b25-8215-8353a7c03c13" title="Dessa" align="left" />
 </p>
 <p align="left">
-  <br> Futures made of virtual insanity, now
+  <br> ${\color{#F15D61}{\textsf{Futures}}}$ ${\color{#F7B45C}{\textsf{made}}}$ ${\color{#FFFF9E}{\textsf{of}}}$ ${\color{#8ffc7c}{\textsf{virtual}}}$ ${\color{#637efc}{\textsf{insanity,}}}$ ${\color{#9756f6}{\textsf{now}}}$
   <br> Always seem to be governed by this love we have
 </p>
 <br>
