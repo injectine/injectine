@@ -29,3 +29,7 @@
   <!-- start from here -->　　 <!-- end to here -->
   <img width="100" src="https://github.com/user-attachments/assets/54a06ee4-02ba-4828-888a-1fa1c27c7c07" title="Personnel Badge (trinket)" />
 </div>
+<p align="right">
+  <a href="https://github.com/68state">1</a>
+  <a href="https://github.com/thedihuistar">2</a>
+</p>
