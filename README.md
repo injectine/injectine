@@ -48,13 +48,12 @@
             <summary>
               <!-- start from here -->　　  <!-- end to here -->
               <!-- start from here -->　 　 <!-- end to here -->
-              ${\color{#c4c4c4}{\textsf{placeholder}}}$
+              ${\color{#c4c4c4}{\textsf{oomf(s)}}}$
               <!-- start from here -->　 　  <!-- end to here -->
               <!-- start from here -->　 　  <!-- end to here -->
             </summary>
             <p align="center">
-                i dk what to fill here
-                <br> may be here for oomfs
+                idk bruh
             </p>
           </details>
         </p>
