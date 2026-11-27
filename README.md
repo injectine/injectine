@@ -66,9 +66,9 @@
   </table>
 </div>
 <div align="right">
-  <img width="100" src="https://github.com/user-attachments/assets/54a06ee4-02ba-4828-888a-1fa1c27c7c07" title="Personnel Badge (trinket)" align="left" />
-  <a href="https://pronouns.cc/@tranz"><img width="300" src="https://github.com/user-attachments/assets/1ce85c7b-329a-497e-9382-24187c80c752" /></a>
-  <br> <a href="https://tranz.atabook.org"><img width="235" src="https://github.com/user-attachments/assets/00c3f02f-7626-47a0-af66-accd2066eba1" /></a>
+    <img width="100" src="https://github.com/user-attachments/assets/54a06ee4-02ba-4828-888a-1fa1c27c7c07" title="Personnel Badge (trinket)" align="left" />
+    <br> <a href="https://pronouns.cc/@tranz"><img width="300" src="https://github.com/user-attachments/assets/1ce85c7b-329a-497e-9382-24187c80c752" /></a>
+    <br> <a href="https://tranz.atabook.org"><img width="235" src="https://github.com/user-attachments/assets/00c3f02f-7626-47a0-af66-accd2066eba1" /></a>
 </div>
 <div align="center">
   <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
