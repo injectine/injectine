@@ -66,9 +66,7 @@
               <a href="https://github.com/piddlesjet">
                 piddlesjet
               </a>
-              <br>
-              <br> ${\color{#c4c4c4}{\textsf{thank you!}}}$ (' ᐜ ' ꩜ )
-                </p>
+            </p>
           </details>
         </p>
       </td>
