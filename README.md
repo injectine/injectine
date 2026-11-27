@@ -22,9 +22,9 @@
         <p align="center">
           <details>
             <summary>
-              <div align="center">
-                ${\color{#c4c4c4}{\textsf{award(s)}}}$
-              </div>
+              <!-- start from here -->　　 <!-- end to here -->
+              ${\color{#c4c4c4}{\textsf{award(s)}}}$
+            <!-- start from here -->　　 <!-- end to here -->
             </summary>
             <p align="center">
               <a href="https://github.com/THE-TEMPIST">
