@@ -11,7 +11,7 @@
     <!-- start from here -->　　 <!-- end to here -->
     <!-- start from here -->　　  <!-- end to here -->
     <a href="https://pronouns.cc/@tranz"><img width="100" src="https://github.com/user-attachments/assets/22317733-4331-4d33-ba08-4048baf277d5" /></a>
-    <a href="https://tranz.atabook.org"><img width="100" src="https://github.com/user-attachments/assets/2013ade7-0a70-47ba-9381-e3a3f4361531" /></a>
+    <br> <a href="https://tranz.atabook.org"><img width="300" src="https://github.com/user-attachments/assets/2347f2ab-f428-4adb-b182-1b4fd0314fd1" title="AtaBook" /></a>
     <!-- start from here -->　　  <!-- end to here -->
     <!-- start from here -->　　 <!-- end to here -->
   </kbd>
