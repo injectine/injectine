@@ -48,7 +48,7 @@
             <summary>
               <!-- start from here -->　　  <!-- end to here -->
               <!-- start from here -->　 　 <!-- end to here -->
-              ${\color{#c4c4c4}{\textsf{oomf(s)}}}$
+              ${\color{#c4c4c4}{\textsf{placeholder}}}$
               <!-- start from here -->　 　  <!-- end to here -->
               <!-- start from here -->　 　  <!-- end to here -->
             </summary>
