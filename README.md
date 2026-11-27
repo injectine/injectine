@@ -48,9 +48,7 @@
             <summary>
               <!-- start from here -->　　  <!-- end to here -->
               <!-- start from here -->　 　 <!-- end to here -->
-              <!-- start from here -->　 　 <!-- end to here -->
-              ${\color{#c4c4c4}{\textsf{award(s)}}}$
-              <!-- start from here -->　 　  <!-- end to here -->
+              ${\color{#c4c4c4}{\textsf{award(s) as @68state}}}$
               <!-- start from here -->　 　  <!-- end to here -->
               <!-- start from here -->　 　  <!-- end to here -->
             </summary>
