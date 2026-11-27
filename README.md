@@ -22,8 +22,23 @@
         <p align="center">
           <details>
             <summary>
-              ${\color{#F15D61}{\textsf{award(s)}}}$
+              ${\color{#c4c4c4}{\textsf{award(s)}}}$
             </summary>
+            <p align="center">
+              <a href="https://github.com/THE-TEMPIST">
+                THE-TEMPIST
+              </a>
+              ${\color{#c4c4c4}{\textsf{✦}}}$
+              <a href="https://github.com/pt-hall-of-fans">
+                pt-hall-of-fans
+              </a>
+              ${\color{#c4c4c4}{\textsf{✦}}}$
+              <a href="https://github.com/piddlesjet">
+                piddlesjet
+              </a>
+              <br>
+              <br> ${\color{#c4c4c4}{\textsf{thank you!}}}$ (' ᐜ ' ꩜ )
+                </p>
           </details>
         </p>
       </td>
