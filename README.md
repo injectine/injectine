@@ -1,3 +1,27 @@
+<!-- forking disclaimer
+    hello!
+    
+    yes, you can take inspiration or fork this repository,
+    but do star this repository if you are taking inspirations 
+    off mine or you have forked this repository
+--->
+<!-- message
+    repository made by me, bozo
+    
+    in any way, this repository is not vibecoded;
+    i learnt all of these and taken some tips from
+    reddit users, blogs, & github discussions.
+    any accusations of me using ai to make this
+    repository is false, i type all the syntax(s)
+    myself. i also word things out wrong half of
+    the time & i mix english (us) with english (uk).
+    please stop spreading disinformation or
+    misinformation from somebody, thanks!
+
+    bozo exiting
+    aka @68state, @thedihuistar on github
+--->
+<!-- main markdown -->
 <div align="center">
   <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
 </div>
@@ -55,15 +79,6 @@
   <a href="https://pronouns.cc/@tranz"><img width="300" src="https://github.com/user-attachments/assets/1ce85c7b-329a-497e-9382-24187c80c752" /></a>
   <br> <a href="https://tranz.atabook.org"><img width="235" src="https://github.com/user-attachments/assets/00c3f02f-7626-47a0-af66-accd2066eba1" /></a>
 </div>
-<p align="center">
-  <h3>
-    <!-- start from here -->　　 <!-- end to here -->
-    <!-- start from here -->　　 <!-- end to here -->
-    <a href="https://github.com/68state">1</a>
-    <!-- start from here -->　<!-- end to here -->
-    <a href="https://github.com/thedihuistar">2</a>
-  </h3>
-</p>
 <div align="center">
   <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
 </div>
