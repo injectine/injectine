@@ -6,6 +6,7 @@
   <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{Always}}}$ ${\color{#F7B45C}{\textsf{seem}}}$ ${\color{#FFFF9E}{\textsf{to}}}$ ${\color{#8FFC7C}{\textsf{be}}}$ ${\color{#8FFC7C}{\textsf{governed}}}$ ${\color{#637efc}{\textsf{by}}}$ ${\color{#637efc}{\textsf{this}}}$ ${\color{#637efc}{\textsf{love}}}$ ${\color{#9756f6}{\textsf{we}}}$  ${\color{#9756f6}{\textsf{have}}}$
 </p>
 <div align="left">
+  <!-- start from here -->　　 <!-- end to here -->
   <kbd>
     <!-- start from here -->　　 <!-- end to here -->
     <!-- start from here -->　　  <!-- end to here -->
@@ -18,22 +19,22 @@
 <br>
 <div align="center">
   <table align="left">
-  <td>
-    <div align="center">
-      border
-    </div>
-  </td>
-  <tr>
     <td>
-      <p align="center">
-        <details>
-          <summary>
-            placeholder
-          </summary>
-        </details>
-      </p>
+      <div align="center">
+        border
+      </div>
     </td>
-</table>
+    <tr>
+      <td>
+        <p align="center">
+          <details>
+            <summary>
+              placeholder
+            </summary>
+          </details>
+        </p>
+      </td>
+  </table>
 </div>
 <div align="left">
   <!-- start from here -->　　 <!-- end to here -->
