@@ -15,7 +15,6 @@
   <table align="left">
     <td>
       <div align="center">
-        border
       </div>
     </td>
     <tr>
