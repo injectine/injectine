@@ -1,3 +1,6 @@
+<div align="center">
+  <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
+</div>
 <p align="center">
   <img width="254" src="https://github.com/user-attachments/assets/b62217f1-99e0-4b25-8215-8353a7c03c13" title="Dessa" align="left" />
 </p>
@@ -39,3 +42,6 @@
     <a href="https://github.com/thedihuistar">2</a>
   </h3>
 </p>
+<div align="center">
+  <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
+</div>
