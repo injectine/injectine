@@ -48,22 +48,12 @@
             <summary>
               <!-- start from here -->　　  <!-- end to here -->
               <!-- start from here -->　 　 <!-- end to here -->
-              ${\color{#c4c4c4}{\textsf{award(s) as @68state}}}$
+              ${\color{#c4c4c4}{\textsf{placeholder}}}$
               <!-- start from here -->　 　  <!-- end to here -->
               <!-- start from here -->　 　  <!-- end to here -->
             </summary>
             <p align="center">
-              <a href="https://github.com/THE-TEMPIST">
-                THE-TEMPIST
-              </a>
-              ${\color{#c4c4c4}{\textsf{✦}}}$
-              <a href="https://github.com/pt-hall-of-fans">
-                pt-hall-of-fans
-              </a>
-              ${\color{#c4c4c4}{\textsf{✦}}}$
-              <a href="https://github.com/piddlesjet">
-                piddlesjet
-              </a>
+              placeholder
             </p>
           </details>
         </p>
