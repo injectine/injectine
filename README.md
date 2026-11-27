@@ -6,15 +6,12 @@
   <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{ Always}}}$ ${\color{#F7B45C}{\textsf{seem}}}$ ${\color{#FFFF9E}{\textsf{to}}}$ ${\color{#8FFC7C}{\textsf{be}}}$ ${\color{#8FFC7C}{\textsf{governed}}}$ ${\color{#637efc}{\textsf{by}}}$ ${\color{#637efc}{\textsf{this}}}$ ${\color{#637efc}{\textsf{love}}}$ ${\color{#9756f6}{\textsf{we}}}$  ${\color{#9756f6}{\textsf{have}}}$
 </p>
 <div align="left">
-  <!-- start from here -->　　 <!-- end to here -->
-  <kbd>
     <!-- start from here -->　　 <!-- end to here -->
     <!-- start from here -->　　  <!-- end to here -->
     <a href="https://pronouns.cc/@tranz"><img width="100" src="https://github.com/user-attachments/assets/22317733-4331-4d33-ba08-4048baf277d5" /></a>
     <br> <a href="https://tranz.atabook.org"><img width="300" src="https://github.com/user-attachments/assets/2347f2ab-f428-4adb-b182-1b4fd0314fd1" title="AtaBook" /></a>
     <!-- start from here -->　　  <!-- end to here -->
     <!-- start from here -->　　 <!-- end to here -->
-  </kbd>
 </div>
 <br>
 <div align="center">
