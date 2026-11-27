@@ -22,9 +22,13 @@
         <p align="center">
           <details>
             <summary>
-              <!-- start from here -->　　 <!-- end to here -->
+              <!-- start from here -->　　  <!-- end to here -->
+              <!-- start from here -->　 　 <!-- end to here -->
+              <!-- start from here -->　 　 <!-- end to here -->
               ${\color{#c4c4c4}{\textsf{award(s)}}}$
-            <!-- start from here -->　　 <!-- end to here -->
+              <!-- start from here -->　 　  <!-- end to here -->
+              <!-- start from here -->　 　  <!-- end to here -->
+              <!-- start from here -->　 　  <!-- end to here -->
             </summary>
             <p align="center">
               <a href="https://github.com/THE-TEMPIST">
@@ -54,7 +58,9 @@
 <p align="center">
   <h3>
     <!-- start from here -->　　 <!-- end to here -->
-    <!-- start from here -->　　 <!-- end to here --> <a href="https://github.com/68state">1</a>
+    <!-- start from here -->　　 <!-- end to here -->
+    <a href="https://github.com/68state">1</a>
+    <!-- start from here -->　<!-- end to here -->
     <a href="https://github.com/thedihuistar">2</a>
   </h3>
 </p>
