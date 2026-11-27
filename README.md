@@ -28,8 +28,11 @@
 <p align="center">
   <img width="254" src="https://github.com/user-attachments/assets/b62217f1-99e0-4b25-8215-8353a7c03c13" title="Dessa" align="left" />
 </p>
+<div align="center">
+    <img src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=Ambrosia&color=FFFF9E&labelColor=1a1a1a&logo=inquirer" title="(' ᐜ ' ꩜ ) " />
+</div>
 <p align="left">
-  <br> <br> <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{"But in}}}$ ${\color{#F7B45C}{\textsf{the magic}}}$ ${\color{#FFFF9E}{\textsf{cove,}}}$ ${\color{#8FFC7C}{\textsf{there's}}}$ ${\color{#637efc}{\textsf{a pretty}}}$ ${\color{#9756f6}{\textsf{one}}}$
+  <br> <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{"But in}}}$ ${\color{#F7B45C}{\textsf{the magic}}}$ ${\color{#FFFF9E}{\textsf{cove,}}}$ ${\color{#8FFC7C}{\textsf{there's}}}$ ${\color{#637efc}{\textsf{a pretty}}}$ ${\color{#9756f6}{\textsf{one}}}$
   <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{ I asked}}}$ ${\color{#F7B45C}{\textsf{where}}}$ ${\color{#FFFF9E}{\textsf{it goes}}}$ ${\color{#8FFC7C}{\textsf{'cause I}}}$ ${\color{#637efc}{\textsf{really}}}$ ${\color{#9756f6}{\textsf{want}}}$
   <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{ I wonder}}}$ ${\color{#F7B45C}{\textsf{if she}}}$ ${\color{#FFFF9E}{\textsf{knows}}}$ ${\color{#8FFC7C}{\textsf{that}}}$ ${\color{#637efc}{\textsf{we're}}}$ ${\color{#9756f6}{\textsf{underwater}}}$
   <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{ That's}}}$ ${\color{#F7B45C}{\textsf{the way}}}$ ${\color{#FFFF9E}{\textsf{it goes in}}}$ ${\color{#8FFC7C}{\textsf{this}}}$ ${\color{#637efc}{\textsf{this city}}}$ ${\color{#9756f6}{\textsf{wonder}}}$
