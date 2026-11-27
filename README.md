@@ -53,7 +53,8 @@
               <!-- start from here -->　 　  <!-- end to here -->
             </summary>
             <p align="center">
-              placeholder
+                i dk what to fill here
+                <br> may be here for oomfs
             </p>
           </details>
         </p>
