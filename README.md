@@ -6,7 +6,13 @@
   <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{Always}}}$ ${\color{#F7B45C}{\textsf{seem}}}$ ${\color{#FFFF9E}{\textsf{to}}}$ ${\color{#8FFC7C}{\textsf{be}}}$ ${\color{#8FFC7C}{\textsf{governed}}}$ ${\color{#637efc}{\textsf{by}}}$ ${\color{#637efc}{\textsf{this}}}$ ${\color{#637efc}{\textsf{love}}}$ ${\color{#9756f6}{\textsf{we}}}$  ${\color{#9756f6}{\textsf{have}}}$
 </p>
 <div align="center">
-  h
+  <kbd>
+    <!-- start from here -->　　  <!-- end to here -->
+    <img width="100" src="https://github.com/user-attachments/assets/22317733-4331-4d33-ba08-4048baf277d5" />
+    <img width="100" src="https://github.com/user-attachments/assets/2013ade7-0a70-47ba-9381-e3a3f4361531" />
+    <!-- start from here -->　　  <!-- end to here -->
+    <!-- start from here -->　　 <!-- end to here -->
+  </kbd>
 </div>
 <br>
 <div align="center">
