@@ -9,7 +9,7 @@
   <!-- start from here -->　　 <!-- end to here -->
   <!-- start from here -->　　  <!-- end to here -->
   <a href="https://pronouns.cc/@tranz"><img width="300" src="https://github.com/user-attachments/assets/1ce85c7b-329a-497e-9382-24187c80c752" /></a>
-  <a href="https://tranz.atabook.org"><img width="235" src="https://github.com/user-attachments/assets/00c3f02f-7626-47a0-af66-accd2066eba1" /></a>
+  <br> <a href="https://tranz.atabook.org"><img width="235" src="https://github.com/user-attachments/assets/00c3f02f-7626-47a0-af66-accd2066eba1" /></a>
 </div>
 <br>
 <div align="center">
