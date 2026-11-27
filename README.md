@@ -22,7 +22,7 @@
         <p align="center">
           <details>
             <summary>
-              placeholder
+              ${\color{#F15D61}{\textsf{award(s)}}}$
             </summary>
           </details>
         </p>
