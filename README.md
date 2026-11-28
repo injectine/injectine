@@ -30,9 +30,8 @@
     <br>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=c2c2c2&bar_color_cover=false" title="Spotify Embed" align="left" /></a>
 </p>
-<div align="center">
-    <img src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=Ambrosia&color=FFFF9E&labelColor=1a1a1a&logo=inquirer" title="(' ᐜ ' ꩜ ) " />
-</div>
+<br>
+<br>
 <p align="left">
     <br> <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{"Futures}}}$ ${\color{#F7B45C}{\textsf{made}}}$ ${\color{#FFFF9E}{\textsf{of}}}$ ${\color{#8FFC7C}{\textsf{virtual}}}$ ${\color{#637efc}{\textsf{insanity,}}}$ ${\color{#9756f6}{\textsf{now}}}$
     <br> <!-- start from here -->　　 <!-- end to here --> ${\color{#F15D61}{\textsf{Always}}}$ ${\color{#F7B45C}{\textsf{seem}}}$ ${\color{#FFFF9E}{\textsf{to}}}$ ${\color{#8FFC7C}{\textsf{be}}}$ ${\color{#8FFC7C}{\textsf{governed}}}$ ${\color{#637efc}{\textsf{by}}}$ ${\color{#637efc}{\textsf{this}}}$ ${\color{#637efc}{\textsf{love}}}$ ${\color{#9756f6}{\textsf{we}}}$  ${\color{#9756f6}{\textsf{have}}}$
@@ -67,6 +66,9 @@
     <img width="100" src="https://github.com/user-attachments/assets/54a06ee4-02ba-4828-888a-1fa1c27c7c07" title="Personnel Badge (trinket)" align="left" />
     <br> <a href="https://pronouns.cc/@tranz"><img width="300" src="https://github.com/user-attachments/assets/1ce85c7b-329a-497e-9382-24187c80c752" /></a>
     <br> <a href="https://tranz.atabook.org"><img width="235" src="https://github.com/user-attachments/assets/00c3f02f-7626-47a0-af66-accd2066eba1" /></a>
+</div>
+<div align="center">
+    <img src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=Ambrosia&color=FFFF9E&labelColor=1a1a1a&logo=inquirer" title="(' ᐜ ' ꩜ ) " align="left" />
 </div>
 <div align="center">
   <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
