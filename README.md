@@ -23,10 +23,12 @@
 --->
 <!-- main markdown -->
 <div align="center">
-  <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
+    <img width="1836" alt="border" src="https://github.com/user-attachments/assets/8b3eac77-9ac0-442a-aaec-4b7157cd911e" />
 </div>
 <p align="center">
-  <img width="254" src="https://github.com/user-attachments/assets/b62217f1-99e0-4b25-8215-8353a7c03c13" title="Dessa" align="left" />
+    <img width="254" src="https://github.com/user-attachments/assets/b62217f1-99e0-4b25-8215-8353a7c03c13" title="Dessa" align="left" />
+    <br>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=c2c2c2&bar_color_cover=false" title="Spotify Embed" align="left" /></a>
 </p>
 <div align="center">
     <img src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=Ambrosia&color=FFFF9E&labelColor=1a1a1a&logo=inquirer" title="(' ᐜ ' ꩜ ) " />
